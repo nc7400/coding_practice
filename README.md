@@ -1,5 +1,6 @@
 # Coding Practice
 A collection of coding practice challenges to keep my coding skills sharp.
+The goal is to not use AI tools, only the aid of documentation.
 
 # Word Scoring Game - 6/30/26
 Time Spent: 3+ Hours
