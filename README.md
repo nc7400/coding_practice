@@ -1,5 +1,5 @@
-# coding_practice
-A collection of coding practice challenges.
+# Coding Pracice
+A collection of coding practice challenges to keep my coding skills sharp.
 
 # Word Scoring Game - 6/30/26
 Time Spent: 3+ Hours
