@@ -1,4 +1,4 @@
-# Coding Pracice
+# Coding Practice
 A collection of coding practice challenges to keep my coding skills sharp.
 
 # Word Scoring Game - 6/30/26
