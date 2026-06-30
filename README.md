@@ -1,8 +1,7 @@
 # coding_practice
 A collection of coding practice challenges.
 
-# June 30 2026
-Word Scoring Game
+# Word Scoring Game - 6/30/26
 Time Spent: 3+ Hours
 Three iterations of the game:
     1. Hard coded words to score
